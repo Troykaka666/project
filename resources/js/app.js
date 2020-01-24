@@ -35,3 +35,9 @@ const app = new Vue({
 // import fancybox
 require ('./fancybox');
 
+// import slick
+// more setting at https://kenwheeler.github.io/slick/#settings
+require ('./slick');
+$('.your-class').slick({
+  });
+
