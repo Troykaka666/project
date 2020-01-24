@@ -31,3 +31,7 @@ import './fontawesome';
 const app = new Vue({
     el: '#app',
 });
+
+// import fancybox
+require ('./fancybox');
+
