@@ -49592,8 +49592,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/brad/Development/laravel/tasteofmarietta/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /home/brad/Development/laravel/tasteofmarietta/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /home/troy/snmd/laravel/client-site/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/troy/snmd/laravel/client-site/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
