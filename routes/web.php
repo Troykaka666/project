@@ -12,3 +12,4 @@
 */
 
 Route::get('/', 'PageController@homeIndex');
+Route::get('/snmd-components', 'PageController@snmdex');
