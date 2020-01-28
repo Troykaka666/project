@@ -15,4 +15,9 @@ class PageController extends Controller
     {
         return view('example/snmdEx');
     }
+
+    public function contactex()
+    {
+        return view('/pages/contact/create');
+    }
 }

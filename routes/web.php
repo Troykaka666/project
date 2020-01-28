@@ -13,3 +13,5 @@
 
 Route::get('/', 'PageController@homeIndex');
 Route::get('/snmd-components', 'PageController@snmdex');
+Route::get('/snmd-contactex', 'ContactController@create');
+Route::post('/snmd-contactex', 'ContactController@store');
