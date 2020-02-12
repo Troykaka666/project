@@ -1,3 +1,13 @@
+# SNMD-laravel-starterProj
+* clone repo
+* composer install
+* php vendor/bin/homestead make
+* update homestaed.yml
+* vagrant up
+* vagrant ssh and then run composer install
+* from host run yarn && yarn dev
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
