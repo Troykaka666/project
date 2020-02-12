@@ -1,8 +1,10 @@
 # SNMD-laravel-starterProj
 * clone repo
+* add .env and update DB info
 * composer install
 * php vendor/bin/homestead make
 * update homestaed.yml
+* update webpack.mix.js
 * vagrant up
 * vagrant ssh and then run composer install
 * from host run yarn && yarn dev
