@@ -19,7 +19,8 @@ class ContactController extends Controller
             'firstname' => 'required',
             'lastname' => 'required',
             'email' => 'required|email',
-            'message' => 'required'
+            'message' => 'required',
+            'g-recaptcha-response' => 'required|captcha',
         ]);
 
         Mail::to('troy@socialnetworkmd.com')->send(new ContactForm($data));
