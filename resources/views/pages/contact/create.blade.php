@@ -49,7 +49,7 @@
    </form>
 {{--
   * ADD: google site key and secret to .env
-  * Help: https://www.larashout.com/adding-google-recaptcha-in-laravel-for-form-validation
+  * Help: https://www.larashout.com/adding-google-recaptcha-in-laravel-for-form-validation ss
 
   --}}
    {!! NoCaptcha::renderJs() !!}
